@@ -1,3 +1,6 @@
+:laughing: D4majaUK/D4majaUK, so good I named it twice :laughing:
+
+
 - 👋 Hi, I’m @D4majaUK
 - 👀 I’m interested in ... a variety of this, from coding to music to keeping as fit an healthy (where possible)
 - 🌱 I’m currently learning ... Azure Bicep (Infrastructure as Code)
