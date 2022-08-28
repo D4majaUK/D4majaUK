@@ -6,3 +6,7 @@
 # [Terraform](https://github.com/D4majaUK/Terraform-Infrastructure-as-Code-)
 <img src="images/terraform.png" width="100" height="100" />
 <p>Infrastructure as Code the Terraform way</p>
+
+{% for post in site.posts %}
+  <li><a href="{{post.url}}">{{post.title}}</a></li>
+{% endfor %}
