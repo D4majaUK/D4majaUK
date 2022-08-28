@@ -6,3 +6,5 @@ categories:
 ---
 
 This is the Terraform development page
+
+![Terraform](../images/terraform.png)
