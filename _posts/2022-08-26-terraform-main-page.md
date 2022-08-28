@@ -5,8 +5,6 @@ categories:
   - terraform
 ---
 
+<img src="/Portfolio/images/terraform.png" width="100" height="100" />
+
 This is the Terraform development page
-
-![Terraform](/Portfolio/images/terraform.png)
-
-![Terraform](./images/terraform.png)
