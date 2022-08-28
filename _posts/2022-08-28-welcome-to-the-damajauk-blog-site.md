@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Welcome to the DamajaUK blog site
 categories:
   - main
