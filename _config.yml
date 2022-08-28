@@ -1,3 +1,10 @@
 theme: jekyll-theme-architect
 title: DamajaUK Portfolio
 description: All GitHub personal development projects
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
