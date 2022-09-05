@@ -25,3 +25,4 @@ minima:
 
 header_pages:
  - blog.html
+ - about.md
