@@ -2,11 +2,11 @@ theme: minima
 title: DamajaUK Portfolio
 description: All GitHub personal development projects
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
 
-#Others
+# Others
 markdown: kramdown
 
 author:
