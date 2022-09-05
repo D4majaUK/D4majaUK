@@ -1,21 +1,18 @@
 theme: minima
 title: DamajaUK Portfolio
 
-author:
-  name: DamajaUK
-  email: support@damaja.co.uk
-
 description: All GitHub personal development projects
 
 # Plugins
 plugins:
-  - jekyll-paginate
-
+ - jekyll-paginate
+ - jekyll-feed
+ - jekyll-seo-tag
+ 
 # Others
 markdown: kramdown
 
 minima:
-
   # Generate social links in footer
   social_links:
     twitter: d4majaUK
