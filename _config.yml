@@ -15,8 +15,12 @@ plugins:
 markdown: kramdown
 
 # Generate social links in footer
-  social_links:
-    twitter: d4majaUK
-    github:  d4majaUK
-    instagram: d4majaUK
-    youtube: d4majaUK
+social_links:
+  twitter: d4majaUK
+  github:  d4majaUK
+  instagram: d4majaUK
+  youtube: d4majaUK
+
+minima:
+  skin: dark
+  
