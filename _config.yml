@@ -8,3 +8,7 @@ gems:
 
 #Others
 markdown: kramdown
+
+author:
+  name: DamajaUK
+  email: "support@damaja.co.uk"
