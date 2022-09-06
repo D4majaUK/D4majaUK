@@ -45,3 +45,28 @@ az deployment group create --resource-group exampleRG --template-file main.bicep
 ```
 
 Check the resource group aand voila! you should see your resource group with the storage account.
+
+### Stretch the success
+
+While this example is all good, it's not exactly what you would do in the real world. You would want to incorporate this into a CI/CD pipeline.
+Azure DevOps would be the perfect companion for this. Create your project and inject the following yaml:
+```
+trigger:
+- master
+
+pool:
+  vmImage: windows-latest
+
+steps:
+- task: AzureCLI@2
+  displayName: Deploy Bicep Template
+  inputs:
+    azureSubscription: '<You will need to provide you Azure subscription here>'
+    scriptType: 'ps'
+    scriptLocation: 'inlineScript'
+    inlineScript: >
+      az deployment group create
+      --mode complete
+      --resource-group bicep 
+      --template-file main.bicep
+```
