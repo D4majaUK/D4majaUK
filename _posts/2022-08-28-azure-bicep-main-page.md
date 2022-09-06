@@ -24,8 +24,24 @@ Bicep provides concise syntax, reliable type safety, and support for code reuse.
   
   <img src="/Portfolio/images/bicep-extension.png" />
   
+- Azure CLI (2.20.0 or later)
+  
+  Bicep comes with Azure CLI. Once installed, type **az bicep upgrade** to get the latest version.
+  Typing **az bicep version** fives installed information.
+  
 ## First Dip
 
-With wasting any time, let's get right into it and create our first Azure Bicep template.
+Let's get right into it and create our first Azure Bicep template. Using Visual Code, create a file called **main.bicep**.
 
 <img src="/Portfolio/images/AzureBicep-GetStarted.png" />
+
+### Deploying first template
+
+In order to rtun your first Azure Bicep template, we will need to first create a resource group in Azure, and then that will be used for the deployment.
+
+```
+az group create --name exampleRG --location uksouth
+az deployment group create --resource-group exampleRG --template-file main.bicep --parameters storageName=uniquename
+```
+
+Check the resource group aand voila! you should see your resource group with the storage account.
