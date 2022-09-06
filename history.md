@@ -22,6 +22,9 @@ permalink: /history/
 # TODO
   - Complete "Welcome" home page
   - Complete "About" page
+  - Complete "Welcome Blog" post
+  - Complete "Terraform" post
+  - Complete "Azure Bicep" post
 
 # Bug Fixes
   - None :)
