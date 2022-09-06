@@ -14,8 +14,14 @@ permalink: /history/
   - Added "Welcome to the DamajaUK blog site"
 
 # Enhancements
+  - Added Blog page
+  - Added History page
+  - Added About page
   - Change theme to **minima**
-  
+
+# TODO
+  - Complete "Welcome" home page
+
 # Bug Fixes
   - None :)
 
