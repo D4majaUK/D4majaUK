@@ -8,6 +8,7 @@ permalink: /history/
   - DamajaUK Portfolio GitHubPages
 
 # Blog Posts
+  - Completed "Azure Bicep" post
   - Added "Octopus Deploy Automation - Use Azure Tools"
   - Added "Azure Bicep framework"
   - Added "Terraform"
@@ -24,7 +25,6 @@ permalink: /history/
   - Complete "About" page
   - Complete "Welcome Blog" post
   - Complete "Terraform" post
-  - Complete "Azure Bicep" post
 
 # Bug Fixes
   - None :)
