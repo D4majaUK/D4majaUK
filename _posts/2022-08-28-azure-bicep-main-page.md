@@ -22,4 +22,10 @@ Bicep provides concise syntax, reliable type safety, and support for code reuse.
   
   Search for *bicep* in the Extensions tab
   
-  <img src="/Portfolio/images/AzureBicep-GetStarted.png" />
+  <img src="/Portfolio/images/bicep-extension.png" />
+  
+## First Dip
+
+With wasting any time, let's get right into it and create our first Azure Bicep template.
+
+<img src="/Portfolio/images/AzureBicep-GetStarted.png" />
