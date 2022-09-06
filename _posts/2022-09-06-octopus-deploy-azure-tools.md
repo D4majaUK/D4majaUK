@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Octopus Deploy Automation: Use Azure Tools
+title: Octopus Deploy Automation - Use Azure Tools
 categories:
   - octopusdeploy
 ---
