@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terraform
+title: Terraform framework
 categories:
   - terraform
 ---
