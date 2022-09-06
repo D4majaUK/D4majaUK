@@ -28,6 +28,7 @@ categories:
 >I completed the project some weeks later, to the irritation of my then manager who reminded me that there is a cost to every piece of work we do.
 >For what I had already done, was not authorised. Oh well, but the customer is always right, surely :)
 
+<p><br /></p>
 
 # First Computer
 
