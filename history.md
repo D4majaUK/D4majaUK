@@ -21,6 +21,7 @@ permalink: /history/
 
 # TODO
   - Complete "Welcome" home page
+  - Complete "About" page
 
 # Bug Fixes
   - None :)
