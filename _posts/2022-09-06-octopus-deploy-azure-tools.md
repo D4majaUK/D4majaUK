@@ -40,7 +40,8 @@ write-host "Project Name:"$projectInfo.Name
 $dp = $spacesRepo.DeployProcesses.Get($projectInfo.DeploymentProcessId)
 $dp.Steps | % {
   if ($_.Name -eq "Deploy SF App") {
-    # Setting this to 'False' will mean using  Azure Tools pre-installed, the default that didn't appear to be set.
+    <# Setting this to 'False' will mean using  Azure Tools pre-installed,
+      the default that didn't appear to be set.#>
     $updValue = new-object Octopus.Client.Model.PropertyValueResource "False"
     $_.Actions.Properties["OctopusUseBundledTooling"] = $updValue
     $spacesRepo.DeploymentProcesses.Modify($dp)
