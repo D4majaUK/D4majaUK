@@ -5,6 +5,8 @@ categories:
   - not-technical
 ---
 
+![First Computer](/portfolio/images/not-technical-but/FirstComputer.jpg)
+
 I’m not technical, but....I got my first Personal Computer which cost £1,000. 
 From that point, I thought I would be able to do so much more that I was able to do on my Amiga computer.
 
