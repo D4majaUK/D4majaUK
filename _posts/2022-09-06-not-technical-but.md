@@ -7,7 +7,7 @@ categories:
 
 # Frequence Demo - A500
 
-<video><source src="/Portfolio/images/not-technical-but/frequencyVideo.mp4" type="video/mp4"></video>
+<video role="button" crossorigin="anonymous" playsinline="" aria-label="Pause" style="min-height: 250px;" autoplay=""><source src="/Portfolio/images/not-technical-but/frequencyVideo.mp4" type="video/mp4"></video>
 
 >I’m not technical, but....In 1991 I completed a project that demonstrated my programming capabilities on the Amiga 500.
 >Manipulating the music track timeline, I was able to trigger graphical changes at points along the way.
@@ -16,6 +16,20 @@ categories:
 >The audio equipment was a replication of real products that I actually owned.
 >
 >The experience in graphics gained from the game software company was put into use and paved the way to other projects.
+
+<p><br /></p>
+
+# First Computer
+
+![First Computer](/Portfolio/images/not-technical-but/FirstComputer.jpg)
+
+>I’m not technical, but....I got my first Personal Computer which cost £1,000. 
+>From that point, I thought I would be able to do so much more that I was able to do on my Amiga computer.
+>
+>In 1995, I upgraded the motherboard, memory and added a Plextor CD Burner - back then it was 2x (that’s right, 2 speed).
+>
+>In 1996, I created my first Damaja CD (entitled CD Stylee) - This was a compilation of the Amiga Soundtracker created tracks, 
+>blended with sections of cartoons and entertainment programmes to split it up.
 
 <p><br /></p>
 
@@ -41,17 +55,3 @@ categories:
 >
 >I completed the project some weeks later, to the irritation of my then manager who reminded me that there is a cost to every piece of work we do.
 >For what I had already done, was not authorised. Oh well, but the customer is always right, surely :)
-
-<p><br /></p>
-
-# First Computer
-
-![First Computer](/Portfolio/images/not-technical-but/FirstComputer.jpg)
-
->I’m not technical, but....I got my first Personal Computer which cost £1,000. 
->From that point, I thought I would be able to do so much more that I was able to do on my Amiga computer.
->
->In 1995, I upgraded the motherboard, memory and added a Plextor CD Burner - back then it was 2x (that’s right, 2 speed).
->
->In 1996, I created my first Damaja CD (entitled CD Stylee) - This was a compilation of the Amiga Soundtracker created tracks, 
->blended with sections of cartoons and entertainment programmes to split it up.
