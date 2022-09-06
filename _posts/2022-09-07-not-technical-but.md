@@ -2,7 +2,7 @@
 layout: post
 title: I'm not technical, but....
 categories:
-  - not-technical
+  - nottechnical
 ---
 
 ![First Computer](/portfolio/images/not-technical-but/FirstComputer.jpg)
