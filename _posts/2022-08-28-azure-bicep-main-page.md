@@ -5,9 +5,9 @@ categories:
   - bicep
 ---
 
-<img src="/Portfolio/images/bicep.png" width="100" height="100" />
+# Azure Bicep development page
 
-This is the Azure Bicep development page
+<img src="/Portfolio/images/bicep.png" width="100" height="100" />
 
 ## Get Started
 
@@ -22,4 +22,4 @@ Bicep provides concise syntax, reliable type safety, and support for code reuse.
   
   Search for *bicep* in the Extensions tab
   
-  <img src="/Portfolio/images/AzureBicep-GetStarted.png" height="100" />
+  <img src="/Portfolio/images/AzureBicep-GetStarted.png" />
