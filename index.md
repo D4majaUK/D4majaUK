@@ -29,6 +29,7 @@ These are the things I am currently working on:
   - [ ] Azure Bicep
   - [ ] Terrafrom framework
   - [ ] Blog welcome page
+  - [ ] About page
 
 ## Documentation
 
