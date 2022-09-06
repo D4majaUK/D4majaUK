@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm not technical, but....
+title: Im not technical...but
 categories:
   - nottechnical
 ---
