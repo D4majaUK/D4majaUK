@@ -18,6 +18,7 @@ Technically a knowledge-dump as and when the mood takes. *I'm not technical, but
 
 ## What's New
 
+- [Not Technical, But...]([https://d4majauk.github.io/Portfolio/not-technical/2022-09-07-not-technical-but.md)
 - [Octopus Deploy - Azure Tools setting in PoSh](https://d4majauk.github.io/Portfolio/octopusdeploy/2022/09/06/octopus-deploy-azure-tools.html)
 - [Azure Bicep - Getting Started](https://d4majauk.github.io/Portfolio/bicep/2022/08/28/azure-bicep-main-page.html)
 
