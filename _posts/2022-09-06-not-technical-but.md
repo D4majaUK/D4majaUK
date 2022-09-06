@@ -5,6 +5,20 @@ categories:
   - nottechnical
 ---
 
+# Frequence Demo - A500
+
+<video><source src="/Portfolio/images/not-technical-but/frequencyVideo.mp4" type="video/mp4"></video>
+
+>I’m not technical, but....In 1991 I completed a project that demonstrated my programming capabilities on the Amiga 500.
+>Manipulating the music track timeline, I was able to trigger graphical changes at points along the way.
+>
+>The video footage was sampled in from a video digitiser as frames that I programmed to display one after another.
+>The audio equipment was a replication of real products that I actually owned.
+>
+>The experience in graphics gained from the game software company was put into use and paved the way to other projects.
+
+<p><br /></p>
+
 # First Solo Computer Project
 
 ![FoxPro](/Portfolio/images/not-technical-but/FoxPro.jpg)
