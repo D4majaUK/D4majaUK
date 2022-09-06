@@ -49,4 +49,4 @@ $dp.Steps | % {
 }
 ```
 
-It is as simple as that :smile:
+It is as simple as that.
