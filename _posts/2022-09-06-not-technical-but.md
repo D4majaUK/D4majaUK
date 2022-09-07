@@ -7,7 +7,7 @@ categories:
 
 # Frequence Demo - Amiga A500
 
-<video src="https://user-images.githubusercontent.com/19514070/188760394-ad70f3f3-d755-4afa-904d-82912d1a855d.mp4" data-canonical-src="https://user-images.githubusercontent.com/19514070/188760394-ad70f3f3-d755-4afa-904d-82912d1a855d.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;" />
+<video src="https://user-images.githubusercontent.com/19514070/188760394-ad70f3f3-d755-4afa-904d-82912d1a855d.mp4" data-canonical-src="https://user-images.githubusercontent.com/19514070/188760394-ad70f3f3-d755-4afa-904d-82912d1a855d.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"></video>
 
 >I’m not technical, but....I completed a project that demonstrated my programming capabilities on the Amiga 500.
 >Manipulating the music track timeline, I was able to trigger graphical changes at points along the way.
