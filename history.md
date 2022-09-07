@@ -8,6 +8,7 @@ permalink: /history/
   - DamajaUK Portfolio GitHubPages
 
 # Blog Posts
+  - Added "I'm not technical, but..." post - on-going
   - Completed "Azure Bicep" post
   - Added "Octopus Deploy Automation - Use Azure Tools"
   - Added "Azure Bicep framework"
