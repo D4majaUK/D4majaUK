@@ -66,7 +66,7 @@ categories:
 >Picture an interview scenario for a permanent role, where i’m asked a simple question: Do you have experience in MS-DOS?
 >I remember it so well. My response was.....No! I don’t know what that is.
 >
->Skip back to the post of 1987, and you will see I mentioned the command line. MS-DOS and command line are the same. 
+>Skip back a couple of years, and I'm using the command line daily at college. MS-DOS and command line are the same. 
 >This I didn’t realise.
 >
 >Fortunate for me, I ended up working in the same office as the person who actually got the job I applied for and failed. 
