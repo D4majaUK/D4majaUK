@@ -5,11 +5,11 @@ categories:
   - nottechnical
 ---
 
-# Frequence Demo - A500
+# Frequence Demo - Amiga A500
 
-<video role="button" crossorigin="anonymous" playsinline="" aria-label="Pause" style="min-height: 250px;" autoplay=""><source src="/Portfolio/images/not-technical-but/frequencyVideo.mp4" type="video/mp4"></video>
+https://user-images.githubusercontent.com/19514070/188760394-ad70f3f3-d755-4afa-904d-82912d1a855d.mp4
 
->I’m not technical, but....In 1991 I completed a project that demonstrated my programming capabilities on the Amiga 500.
+>I’m not technical, but....I completed a project that demonstrated my programming capabilities on the Amiga 500.
 >Manipulating the music track timeline, I was able to trigger graphical changes at points along the way.
 >
 >The video footage was sampled in from a video digitiser as frames that I programmed to display one after another.
@@ -26,9 +26,9 @@ categories:
 >I’m not technical, but....I got my first Personal Computer which cost £1,000. 
 >From that point, I thought I would be able to do so much more that I was able to do on my Amiga computer.
 >
->In 1995, I upgraded the motherboard, memory and added a Plextor CD Burner - back then it was 2x (that’s right, 2 speed).
+>I upgraded the motherboard, memory and added a Plextor CD Burner - back then it was 2x (that’s right, 2 speed).
 >
->In 1996, I created my first Damaja CD (entitled CD Stylee) - This was a compilation of the Amiga Soundtracker created tracks, 
+>I created my first Damaja CD (entitled CD Stylee) - This was a compilation of the Amiga Soundtracker created tracks, 
 >blended with sections of cartoons and entertainment programmes to split it up.
 
 <p><br /></p>
@@ -37,11 +37,11 @@ categories:
 
 ![FoxPro](/Portfolio/images/not-technical-but/FoxPro.jpg)
 
-![VisualFoxPro](/Portfolio/images/not-technical-but/VisualFoxPro.jpg)
+![Visual FoxPro](/Portfolio/images/not-technical-but/VisualFoxPro.jpg)
 
-![ComplaintsAndEnquiries](/Portfolio/images/not-technical-but/ComplaintsAndEnquiries.jpg)
+![Complaints And Enquiries System Archive](/Portfolio/images/not-technical-but/ComplaintsAndEnquiries.jpg)
 
->I’m not technical, but....In 1992 I was asked to make some changes to a project written in a development environment called FoxPro. 
+>I’m not technical, but....I was asked to make some changes to a project written in a development environment called FoxPro. 
 >This was something I hadn't had experience in, but there was a manual and faith that I could work it out.
 >
 >I made a couple of changes and hated every minute of looking at code that had not been structured, 
@@ -55,3 +55,35 @@ categories:
 >
 >I completed the project some weeks later, to the irritation of my then manager who reminded me that there is a cost to every piece of work we do.
 >For what I had already done, was not authorised. Oh well, but the customer is always right, surely :)
+
+<p><br /></p>
+
+![Local Authority](/Portfolio/images/not-technical-but/LocalAuthority.jpg)
+
+>I’m not technical, but....This place sort of proved this to be true, temporarily. 
+>Picture an interview scenario for a permanent role, where i’m asked a simple question: Do you have experience in MS-DOS?
+>I remember it so well. My response was.....No! I don’t know what that is.
+>
+>Skip back to the post of 1987, and you will see I mentioned the command line. MS-DOS and command line are the same. 
+>This I didn’t realise.
+>
+>Fortunate for me, I ended up working in the same office as the person who actually got the job I applied for and failed. 
+>This was maternity cover, so I had maybe a year to get some skills.
+>
+>The job entailed printouts of all outstanding jobs. This was delivered at the beginning of the week.
+>I had to go through them and find the ones that had breached the expected timeframe. An exciting job using a highlighter. 
+>This is what a non-technical person does for a living.
+>
+>In order to save money, the idea was to download the list and manipulate it locally. 
+>They had a Relational Database Management System by IBM Informix called Smart 3.1.
+>Imagine a very early version of Microsoft Office before Windows arrived.
+>
+>Simple process to defined was as follows:
+>
+>Download the records, Import them into the database, Select the breached records, Jump to the Spreadsheet application, Split by depot and print out.
+>
+>The amount of money and time this saved was good enough to keep me on at the company beyond the return of the maternity cover. 
+>I would then see quite a lot of requests for more reports.
+>
+>Smart 3.1 was then updated to Smartware II - a better suite of applications, allowing more complexity of what could be done.
+
