@@ -58,6 +58,8 @@ categories:
 
 <p><br /></p>
 
+# Local Authority
+
 ![Local Authority](/Portfolio/images/not-technical-but/LocalAuthority.jpg)
 
 >I’m not technical, but....This place sort of proved this to be true, temporarily. 
