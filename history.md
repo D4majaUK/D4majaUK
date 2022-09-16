@@ -8,6 +8,7 @@ permalink: /history/
   - DamajaUK Portfolio GitHubPages
 
 # Blog Posts
+  - Added "Windows - Auto login" post
   - Added "Octopus Deploy Self-Heal Health Check" post
   - Added "I'm not technical, but..." post
   - Completed "Azure Bicep" post
