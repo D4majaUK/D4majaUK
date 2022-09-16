@@ -20,7 +20,7 @@ The easiest way to find the startup folder, is to type ***shell:startup*** in th
 Ok, on with the solution.
 The best way to do this, is to jump into REGEDIT, and navigate through to **Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon**
 
-![RegEdit WinLogon](images/RegEditWinLogon.png)
+![RegEdit WinLogon](/Portfolio/images/RegEditWinLogon.png)
 
 As you can see from the screenshot, I don't have anything that looks like it defines auto logon, and that is fine, we can set it up now.
 We are going to add 3 key-value pairs to achieve the desired outcome.
