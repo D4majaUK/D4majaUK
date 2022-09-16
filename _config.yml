@@ -15,6 +15,7 @@ markdown: kramdown
 minima:
   # Generate social links in footer
   social_links:
+    email: "abarrett_mbcs@outlook.com"
     twitter: d4majaUK
     github:  d4majaUK
     instagram: d4majaUK
