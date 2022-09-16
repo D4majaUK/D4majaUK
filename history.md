@@ -8,6 +8,7 @@ permalink: /history/
   - DamajaUK Portfolio GitHubPages
 
 # Blog Posts
+  - Added "Octopus Deploy Self-Heal Health Check" post
   - Added "I'm not technical, but..." post
   - Completed "Azure Bicep" post
   - Added "Octopus Deploy Automation - Use Azure Tools"
@@ -16,9 +17,11 @@ permalink: /history/
   - Added "Welcome to the DamajaUK blog site"
 
 # Enhancements
+  - Updated Footer page (w/ name and email)
+  - Updated About page
+  - Added About page
   - Added Blog page
   - Added History page
-  - Added About page
   - Change theme to **minima**
 
 # TODO
