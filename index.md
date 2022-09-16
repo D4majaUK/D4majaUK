@@ -17,7 +17,7 @@ Technically a knowledge-dump as and when the mood takes. *I'm not technical, but
 - [Thanks](#thanks)
 
 ## What's New
-
+- [Windows - Auto login](https://d4majauk.github.io/Portfolio/octopusdeploy/2022/09/16/2022-09-16-autostart-login-vm.html)
 - [Octopus Deploy Self-Heal Health Check](https://d4majauk.github.io/Portfolio/octopusdeploy/2022/09/16/octopus-deploy-connection-healthcheck.html)
 - [Not Technical, But...](https://d4majauk.github.io/Portfolio/nottechnical/2022/09/06/not-technical-but.html)
 - [Octopus Deploy - Azure Tools setting in PoSh](https://d4majauk.github.io/Portfolio/octopusdeploy/2022/09/06/octopus-deploy-azure-tools.html)
@@ -25,7 +25,7 @@ Technically a knowledge-dump as and when the mood takes. *I'm not technical, but
 
 ## Status
 
-These are the things I am currently working on:
+These are the things I am currently working on or completed [x]:
 
   - [x] Octopus Deploy - Self-Heal Health Check
   - [x] Octopus Deploy - Azure Tools setting in PoSh
