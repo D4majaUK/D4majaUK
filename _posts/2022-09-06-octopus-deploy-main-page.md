@@ -7,7 +7,7 @@ categories:
 
 # Octopus Deploy
 
-<img src="/Portfolio/images/octopus.png" width="100" height="100" />
+<img src="/Portfolio/images/octopus.png" width="200" height="100" />
 
 ## About Octopus Deploy
 
