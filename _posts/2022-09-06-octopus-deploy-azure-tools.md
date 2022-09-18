@@ -2,7 +2,7 @@
 layout: post
 title: Octopus Deploy Automation - Use Azure Tools
 categories:
-  - octopus-deploy
+  - octopus-deploy-post
 ---
 
 # Problem
