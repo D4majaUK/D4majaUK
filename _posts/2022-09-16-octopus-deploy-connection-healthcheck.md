@@ -2,7 +2,7 @@
 layout: post
 title: Octopus Deploy Self-Heal Health Check
 categories:
-  - octopusdeploy
+  - octopus-deploy
 ---
 
 # Problem
