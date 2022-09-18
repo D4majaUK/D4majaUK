@@ -21,7 +21,7 @@ Technically a knowledge-dump as and when the mood takes. *I'm not technical, but
 - [Octopus Deploy Self-Heal Health Check](https://d4majauk.github.io/Portfolio/octopusdeploy/2022/09/16/octopus-deploy-connection-healthcheck.html)
 - [Not Technical, But...](https://d4majauk.github.io/Portfolio/nottechnical/2022/09/06/not-technical-but.html)
 - [Octopus Deploy - Azure Tools setting in PoSh](https://d4majauk.github.io/Portfolio/octopusdeploy/2022/09/06/octopus-deploy-azure-tools.html)
-- [Azure Bicep - Getting Started](https://d4majauk.github.io/Portfolio/bicep/2022/08/28/azure-bicep-main-page.html)
+- [Azure Bicep - Blog posts](https://d4majauk.github.io/Portfolio/bicep)
 
 ## Status
 
