@@ -9,64 +9,6 @@ categories:
 
 <img src="/Portfolio/images/bicep.png" width="100" height="100" />
 
-## Get Started
+## Posts
 
-Bicep is a domain-specific language (DSL) that uses declarative syntax to deploy Azure resources. In a Bicep file, you define the infrastructure you want to deploy to Azure, and then use that file throughout the development lifecycle to repeatedly deploy your infrastructure. Your resources are deployed in a consistent manner.
-
-Bicep provides concise syntax, reliable type safety, and support for code reuse. Bicep offers a first-class authoring experience for your infrastructure-as-code solutions in Azure. [Learn more](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
-
-## Pre-requisites
-
-- Visual Studio Code
-- Bicep extension for Visual Studio Code
-  
-  Search for *bicep* in the Extensions tab
-  
-  <img src="/Portfolio/images/bicep-extension.png" />
-  
-- Azure CLI (2.20.0 or later)
-  
-  Bicep comes with Azure CLI. Once installed, type **az bicep upgrade** to get the latest version.
-  Typing **az bicep version** fives installed information.
-  
-## First Dip
-
-Let's get right into it and create our first Azure Bicep template. Using Visual Code, create a file called **main.bicep**.
-
-<img src="/Portfolio/images/AzureBicep-GetStarted.png" />
-
-### Deploying first template
-
-In order to rtun your first Azure Bicep template, we will need to first create a resource group in Azure, and then that will be used for the deployment.
-
-```
-az group create --name exampleRG --location uksouth
-az deployment group create --resource-group exampleRG --template-file main.bicep --parameters storageName=uniquename
-```
-
-Check the resource group aand voila! you should see your resource group with the storage account.
-
-### Stretch the success
-
-While this example is all good, it's not exactly what you would do in the real world. You would want to incorporate this into a CI/CD pipeline.
-Azure DevOps would be the perfect companion for this. Create your project and inject the following yaml:
-```
-trigger:
-- master
-
-pool:
-  vmImage: windows-latest
-
-steps:
-- task: AzureCLI@2
-  displayName: Deploy Bicep Template
-  inputs:
-    azureSubscription: '<You will need to provide you Azure subscription here>'
-    scriptType: 'ps'
-    scriptLocation: 'inlineScript'
-    inlineScript: >
-      az deployment group create
-      --mode complete
-      --resource-group bicep 
-      --template-file main.bicep
-```
+[Azure Bicep Blog](https://d4majauk.github.io/Portfolio/bicep)
