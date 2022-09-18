@@ -22,8 +22,8 @@ permalink: /blog/
         {% unless post.categories == "bicep-post" %}
           <li>
             <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <span>{{ post.categories }}</span>
-            <span>{{ post.category }}</span>
+            <span>Categories: {{ post.categories }}</span>
+            <span>Category: {{ post.category }}</span>
             <h3>
               <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
