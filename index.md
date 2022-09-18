@@ -18,9 +18,8 @@ Technically a knowledge-dump as and when the mood takes. *I'm not technical, but
 
 ## What's New
 - [Windows - Auto login](https://d4majauk.github.io/Portfolio/windows/2022/09/16/autostart-login-vm.html)
-- [Octopus Deploy Self-Heal Health Check](https://d4majauk.github.io/Portfolio/octopusdeploy/2022/09/16/octopus-deploy-connection-healthcheck.html)
+- [Octopus Deploy - Blog posts](https://d4majauk.github.io/Portfolio/octopus)
 - [Not Technical, But...](https://d4majauk.github.io/Portfolio/nottechnical/2022/09/06/not-technical-but.html)
-- [Octopus Deploy - Azure Tools setting in PoSh](https://d4majauk.github.io/Portfolio/octopusdeploy/2022/09/06/octopus-deploy-azure-tools.html)
 - [Azure Bicep - Blog posts](https://d4majauk.github.io/Portfolio/bicep)
 
 ## Status
