@@ -17,4 +17,6 @@ Bicep provides concise syntax, reliable type safety, and support for code reuse.
 
 ## Posts
 
+In order to see the progress of my Azure Bicep journey, I have split this out into a separate blog. Click the link below to find out more.
+
 [Azure Bicep Blog](https://d4majauk.github.io/Portfolio/bicep)
