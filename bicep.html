@@ -12,14 +12,14 @@ permalink: /bicep/
   {% endif %}
 
 
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
+  {% if posts.size > 0 %}
+    {% if page.list_title %}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
+    {% endif %}
     <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-        {% if post.category == "bicep-post" %}
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      {% for post in posts %}
+        {% if post.categories[0] == "bicep-post" %}
           <li>
             <span class="post-meta">{{ post.date | date: date_format }}</span>
             <h3>
@@ -27,12 +27,12 @@ permalink: /bicep/
                 {{ post.title | escape }}
               </a>
             </h3>
-            {%- if site.show_excerpts -%}
+            {% if site.show_excerpts %}
               {{ post.excerpt }}
-            {%- endif -%}
+            {% endif %}
           </li>
-        {%- endif -%}
-      {%- endfor -%}
+        {% endif %}
+      {% endfor %}
     </ul>
 
     {% if site.paginate %}
