@@ -2,7 +2,7 @@
 layout: post
 title: Im not technical...but
 categories:
-  - nottechnical
+  - not-technical
 ---
 
 # Frequence Demo - Amiga A500
