@@ -8,4 +8,13 @@ My name is ***Anthony Barrett MBCS*** and this is my mini-blog site. I decided t
 
 This site will always be a work-in-progress/on-going, as you never seem to stop learning in the IT industry with it evolving continuously.
 
+<p><br /><br /><br /></p>
+
 ![Queen Elizabeth II](/Portfolio/images/Queen-Elizabeth-II.png)
+
+> God of love, we thank you for the lifge of The Queen, for her service to our nation, and for her faith in you.
+>
+> Be close to all of us who mourn, that we might find comfort and hope in your love,
+>
+> Amen.
+<p align="right"><em>- Coventry Cathedral</em></p>
