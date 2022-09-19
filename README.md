@@ -17,6 +17,7 @@ This is a list of some of the development highlights, including ideas, thoughts 
   <p>
     <img src="images/bicep.png" width="100" height="100" />
     <img src="images/terraform.png" width="100" height="100" />
+    <img src="images/octopusdeploy.png" width="100" height="100" />
   </p>
 
   Please note: No technologies were harmed while experimenting/exploring/etc
