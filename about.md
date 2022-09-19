@@ -12,7 +12,7 @@ This site will always be a work-in-progress/on-going, as you never seem to stop 
 
 ![Queen Elizabeth II](/Portfolio/images/Queen-Elizabeth-II.png)
 
-> God of love, we thank you for the life of The Queen,
+> "God of love, we thank you for the life of The Queen,
 >
 > for her service to our nation, and for her faith in you.
 >
@@ -20,5 +20,5 @@ This site will always be a work-in-progress/on-going, as you never seem to stop 
 > 
 > that we might find comfort and hope in your love,
 >
-> Amen.
+> Amen."
 <p align="right"><em>- Coventry Cathedral</em></p>
