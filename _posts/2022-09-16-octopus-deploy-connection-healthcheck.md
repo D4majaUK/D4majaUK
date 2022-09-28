@@ -52,6 +52,11 @@ foreach ($vmName in $vmArray) {
     write-host " "
   }
   Restart-AzureRmVM -ResourceGroupName "<resource group where the vm is located>" -Name $vmName
+  
+  # As an alternative, you can stop and then start the VM
+  # Stop-AzureRmVM -ResourceGroupName "<resource group where the vm is located>" -Name $vmName
+  # Start-Sleep -Seconds 5
+  # Start-AzureRmVM -ResourceGroupName "<resource group where the vm is located>" -Name $vmName
 }
 ```
 
