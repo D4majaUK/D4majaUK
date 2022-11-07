@@ -20,7 +20,7 @@ Technically a knowledge-dump as and when the mood takes. *I'm not technical, but
 - [Windows - Auto login](https://d4majauk.github.io/Portfolio/windows/2022/09/16/autostart-login-vm.html)
 - [Octopus Deploy - Blog posts](https://d4majauk.github.io/Portfolio/octopus)
 - [Azure Bicep - Blog posts](https://d4majauk.github.io/Portfolio/bicep)
-- [Not Technical, But...](https://d4majauk.github.io/Portfolio/nottechnical/2022/09/06/not-technical-but.html)
+- [Not Technical, But...](https://d4majauk.github.io/Portfolio/not-technical/2022/09/06/not-technical-but.html)
 
 ## Status
 
