@@ -112,6 +112,8 @@ categories:
 
 # Did Someone Mention Add-On?
 
+![C64-1541](/Portfolio/images/not-technical-but/C64-1541.jpg)
+
 >I’m not technical, but.....I extended my computer setup by getting a Commodore 1541 - 5 1/4-inch Floppy Disk Drive. This catapulted me into a whole new world, a world of machine code programming. Rather than poking values into memory (the process of assigning values in sequence in memory), I was able to use an assembler to create programs that run much faster than BASIC.
 >
 >An assembler example would be like this:
