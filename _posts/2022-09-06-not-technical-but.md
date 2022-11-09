@@ -93,7 +93,7 @@ categories:
 
 # First Upgrade
 
-![C2N-Datasette(/Portfolio/images/not-technical-but/C2N-Datasette.jpg)
+![C2N-Datasette](/Portfolio/images/not-technical-but/C2N-Datasette.jpg)
 ![Vic20-Screen](/Portfolio/images/not-technical-but/Vic20-Screen.jpg)
 
 >I’m not technical, but.....there was also this device that accompanied the Commodore VIC-20. This would make all the hard earned effort recoverable. It gave the ability to load/save the things that I had typed into my Commodore VIC-20. 
