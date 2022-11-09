@@ -18,7 +18,7 @@ categories:
 
 <video src="https://user-images.githubusercontent.com/19514070/200871606-e5757375-2a18-40cd-a38a-d95ec9d9500b.mp4" data-canonical-src="https://user-images.githubusercontent.com/19514070/200871606-e5757375-2a18-40cd-a38a-d95ec9d9500b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"></video>
 
->I’m not technical, but…..If I skip forward to 2015 and find a Commodore 64 emulator and an Assembler, I should be able to make a simple demo. This would incorporate some of the things I used to do back in the day.
+>I’m not technical, but…..If I skip forward to 2015 and find a Commodore 64 emulator and an Assembler, I should be able to make a simple demo. This would incorporate some of the things I used to do back in the day. Please Note: It's one sprite 
 >
 >Add a some self-created music on top and a little video composition and voila! we have a demo that takes us back, way back, back in time.
 
@@ -107,6 +107,28 @@ categories:
 >I would then see quite a lot of requests for more reports.
 >
 >Smart 3.1 was then updated to Smartware II - a better suite of applications, allowing more complexity of what could be done.
+
+<p><br /></p>
+
+# Did Someone Mention Add-On?
+
+>I’m not technical, but.....I extended my computer setup by getting a Commodore 1541 - 5 1/4-inch Floppy Disk Drive. This catapulted me into a whole new world, a world of machine code programming. Rather than poking values into memory (the process of assigning values in sequence in memory), I was able to use an assembler to create programs that run much faster than BASIC.
+>
+>An assembler example would be like this:
+>
+>**LDA #0F**
+>
+>**STA $D020**
+>
+>This gets the value of 15 (colour white) and stores it in the hex location $D020 which is the border colour location in memory.
+>
+>It started with changing the border colour over and over (turbo lines). Then started with interrupts - a technique of changing the border colour a different row lines and still being able to type things in (see the previous post video). Doing this without interrupts would lock the keyboard until you stopped it running.
+>
+>Being able to store this on disk was a breakthrough - really did speed things up.
+>
+>I moved on then to moving sprites (small graphical blocks that sit on another layer, on top of the screen) around the screen, scrolling the screen upwards and creating intro demos for games.
+>
+>Having a keen interest on keeping track of my finances from an early age, I created a BASIC program to store my bank account transactions on. This was a simple program that allowed you to deposit, withdraw, and print a statement. The account details were saved to and loaded from the disk drive. Overwriting the previous file. 
 
 <p><br /></p>
 
