@@ -89,22 +89,26 @@ categories:
 >
 >Smart 3.1 was then updated to Smartware II - a better suite of applications, allowing more complexity of what could be done.
 
+<p><br /></p>
+
 # First Home Computer
 
 ![First Home Computer](/Portfolio/images/not-technical-but/VIC-20.jpg)
 
-I’m not technical, but…..In 1982, I was gifted with my first home computer. The Commodore VIC-20 with 5K of RAM (which back then seemed like such a lot of memory to play around with). This computer started me off in the world of BASIC - Beginners All-purpose Symbolic Instruction Code (I think that’s what it was). My first computer program was as follows:
+>I’m not technical, but…..In 1982, I was gifted with my first home computer. The Commodore VIC-20 with 5K of RAM (which back then seemed like such a lot of memory to play around with). This computer started me off in the world of BASIC - Beginners All-purpose Symbolic Instruction Code (I think that’s what it was). My first computer program was as follows:
+>
+>**10 PRINT “COMMODORE VIC-20″
+>20 GOTO 10**
+>Moving on from the simple stuff, I used to buy computer magazines that had free games included.  But not as we know it today, these had to be typed in. And you could almost bet your life on it that it would never work first time. You had to search through hundreds of lines of code to find the typing error or even worse, you had to fix a bug.
+>
+>This was legendary back in the day, and I felt like I had entered a secret world of the what I now know to be Geekdom. 
 
-10 PRINT “COMMODORE VIC-20″
-20 GOTO 10
-Moving on from the simple stuff, I used to buy computer magazines that had free games included.  But not as we know it today, these had to be typed in. And you could almost bet your life on it that it would never work first time. You had to search through hundreds of lines of code to find the typing error or even worse, you had to fix a bug.
-
-This was legendary back in the day, and I felt like I had entered a secret world of the what I now know to be Geekdom. 
+<p><br /></p>
 
 # Introduction
 
-Here we are with my blog all about not being technical. As you look through this blog you may notice something, something that may contradict the perceived focus of this blog. But I won’t give the whole game away. I’m not a technical guy (and many have told me this along my life journey), and here’s the evidence so you can see for yourself.
-
-I hope you find this an interesting insight
-
-“I’m not technical, but.......”
+>Here we are with my blog all about not being technical. As you look through this blog you may notice something, something that may contradict the perceived focus of this blog. But I won’t give the whole game away. I’m not a technical guy (and many have told me this along my life journey), and here’s the evidence so you can see for yourself.
+>
+>I hope you find this an interesting insight
+>
+>“I’m not technical, but.......”
