@@ -5,7 +5,17 @@ categories:
   - not-technical
 ---
 
-# Frequence Demo - Amiga A500
+# C64 Emulator - Open Border Demo
+
+<video src="https://user-images.githubusercontent.com/19514070/200871606-e5757375-2a18-40cd-a38a-d95ec9d9500b.mp4" data-canonical-src="https://user-images.githubusercontent.com/19514070/200871606-e5757375-2a18-40cd-a38a-d95ec9d9500b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"></video>
+
+>I’m not technical, but…..If I skip forward to 2015 and find a Commodore 64 emulator and an Assembler, I should be able to make a simple demo. This would incorporate some of the things I used to do back in the day.
+>
+>Add a some self-created music on top and a little video composition and voila! we have a demo that takes us back, way back, back in time.
+
+<p><br /></p>
+
+# Frequency Demo - Amiga A500
 
 <video src="https://user-images.githubusercontent.com/19514070/188760394-ad70f3f3-d755-4afa-904d-82912d1a855d.mp4" data-canonical-src="https://user-images.githubusercontent.com/19514070/188760394-ad70f3f3-d755-4afa-904d-82912d1a855d.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"></video>
 
