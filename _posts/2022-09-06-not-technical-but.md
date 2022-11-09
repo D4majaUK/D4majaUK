@@ -91,9 +91,22 @@ categories:
 
 <p><br /></p>
 
+# First Upgrade
+
+![C2N-Datasette(/Portfolio/images/not-technical-but/C2N-Datasette.jpg)
+![Vic20-Screen](/Portfolio/images/not-technical-but/Vic20-Screen.jpg)
+
+>I’m not technical, but.....there was also this device that accompanied the Commodore VIC-20. This would make all the hard earned effort recoverable. It gave the ability to load/save the things that I had typed into my Commodore VIC-20. 
+>
+>The first game I created from nothing was called SKI RUN. A very simple game to today’s standards, but back then it was great. The screen scrolled up and obstacles appeared in your path - so you had to move your character left and right to avoid them. 
+>
+>I was added a score counter and a concept of lives. Once your lives ran out it would just print “GAME OVER” on the screen and then the “READY” prompt appeared. 
+
+<p><br /></p>
+
 # First Home Computer
 
-![First Home Computer](/Portfolio/images/not-technical-but/VIC-20.jpg)
+![First Home Computer](/Portfolio/images/not-technical-but/Vic20.jpg)
 
 >I’m not technical, but…..In 1982, I was gifted with my first home computer. The Commodore VIC-20 with 5K of RAM (which back then seemed like such a lot of memory to play around with). This computer started me off in the world of BASIC - Beginners All-purpose Symbolic Instruction Code (I think that’s what it was). My first computer program was as follows:
 >
