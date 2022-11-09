@@ -5,6 +5,15 @@ categories:
   - not-technical
 ---
 
+# Introduction
+
+>Here we are with my blog all about not being technical. As you look through this blog you may notice something, something that may contradict the perceived focus of this blog. But I won’t give the whole game away. I’m not a technical guy (and many have told me this along my life journey), and here’s the evidence so you can see for yourself. (The earliest being at the bottom of this post)
+>
+>I hope you find this an interesting insight
+>
+>“I’m not technical, but.......”
+
+
 # C64 Emulator - Open Border Demo
 
 <video src="https://user-images.githubusercontent.com/19514070/200871606-e5757375-2a18-40cd-a38a-d95ec9d9500b.mp4" data-canonical-src="https://user-images.githubusercontent.com/19514070/200871606-e5757375-2a18-40cd-a38a-d95ec9d9500b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"></video>
@@ -140,13 +149,3 @@ categories:
 >Moving on from the simple stuff, I used to buy computer magazines that had free games included.  But not as we know it today, these had to be typed in. And you could almost bet your life on it that it would never work first time. You had to search through hundreds of lines of code to find the typing error or even worse, you had to fix a bug.
 >
 >This was legendary back in the day, and I felt like I had entered a secret world of the what I now know to be Geekdom. 
-
-<p><br /></p>
-
-# Introduction
-
->Here we are with my blog all about not being technical. As you look through this blog you may notice something, something that may contradict the perceived focus of this blog. But I won’t give the whole game away. I’m not a technical guy (and many have told me this along my life journey), and here’s the evidence so you can see for yourself.
->
->I hope you find this an interesting insight
->
->“I’m not technical, but.......”
