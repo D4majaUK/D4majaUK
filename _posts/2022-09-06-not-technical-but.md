@@ -90,3 +90,10 @@ categories:
 >Smart 3.1 was then updated to Smartware II - a better suite of applications, allowing more complexity of what could be done.
 
 
+# Introduction
+
+Here we are with my blog all about not being technical. As you look through this blog you may notice something, something that may contradict the perceived focus of this blog. But I won’t give the whole game away. I’m not a technical guy (and many have told me this along my life journey), and here’s the evidence so you can see for yourself.
+
+I hope you find this an interesting insight
+
+“I’m not technical, but.......”
