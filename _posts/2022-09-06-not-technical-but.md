@@ -103,9 +103,9 @@ categories:
 
 # Next Big Upgrade
 
-![C64-Manuals](/Portfolio/images/not-technical-but/C64-Manuals.jpg)
-
 ![C64](/Portfolio/images/not-technical-but/C64.jpg)
+
+![C64-Manuals](/Portfolio/images/not-technical-but/C64-Manuals.jpg)
 
 >I’m not technical, but.....I upgraded from the Commodore VIC-20 to the Commodore 64. This had a whopping 64K RAM (Random Access Memory - of which, only 38K RAM was useable). Now this was the mac-daddy in my mind at the time. Before I got this, I used to go to Dixons (popular store for tech) and trial out the Commodore 64. I had moved on a little from BASIC to the much faster MACHINE CODE. A series of POKE commands would changed the border colour at such a fast rate in a loop that gave the impression that every 5 or so lines was a different colour. This was also called turbo lines. And with a few more POKE commands would also change the screen colour, so the whole screen was changing colour in lines.
 >
