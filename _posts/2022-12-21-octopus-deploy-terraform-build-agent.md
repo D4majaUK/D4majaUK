@@ -60,7 +60,7 @@ Here are some of the things you may expoerience and what is required to fix it.
 For the vnet, you only need to have read permission [**Microsoft.Network/virtualNetworks/read**]
 
 For the subnet, you only need to have join permission [**Microsoft.Network/virtualNetworks/subnets/join/action**]
-> Note: this permission is added to the subnet resource, not the recipient. 
+> Note: this permission is added to the subnet resource, not the destination resource group. 
 
 #### Terraform Template to create Build Agent infrastructure
 ```
