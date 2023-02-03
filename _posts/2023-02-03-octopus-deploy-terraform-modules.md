@@ -25,20 +25,57 @@ It is actually a straight forward process, we just need to upload a package and 
 
 1. Create the folder structure for Terraform.
 2. Build out the Terraform implementation within that structure.
-3. Zip it up.
+3. Package it up.
 4. Upload to the in-built package store.
 5. Reference within the template.
 6. Deploy the solution.
 
 ### 1. Create the folder structure for Terraform
 
+![Terraform folder structure](/Portfolio/images/ODtreeStructure.jpg)
+
+Here we can create the structure that we want. In this example, under the modules foilder I have created a VM subfolder.
+That will then house the VM module files that will be pulled into the main part of the template.
+The purpose of this is to be able to create multiple VMs, by just passing in the VM name into the module.
+
+
 ### 2. Build out the Terraform implementation within that structure
 
-### 3. Zip it up
+To recall the the flat structure, [click here to see the post](https://d4majauk.github.io/Portfolio/octopus-deploy-post/2022/12/21/octopus-deploy-terraform-build-agent.html).
+From that I have basically copied everything in that is repeatable and specific for the VM. It's out of scope for this post.
+
+
+### 3. Package it up
+
+OD is great in the way that it allows a few extensions to pass for packages that you can upload.
+You can go down the Nuget reoute, althought I found this was more for code examples.
+But what is great, is that it also allows .ZIP format. Cowabunga!!! I'll take some of that.
+So, once you are happy with the structure and contents, all you have to do is send it to a compressed file (Zip it up as they say).
+OD has a small requirement, and that is to make sure the filename has some kind of versioning. **\<Filename\>.Major.Minor.Patch.zip** 
+
 
 ### 4. Upload to the in-built package store
 
+OD then has a simple method of uploading files within it's portal, as you can see below. And it really is as simple as that.
+
+![Terraform folder structure](/Portfolio/images/ODtreeStructure.jpg)
+
+This puts it into the OD built-in package repo.
+
+**NB: In this way, you will need to manage the versions and how you use them**
+
+
 ### 5. Reference within the template
+
+As seen at the beginning of this post, you then include the package name (specific version of your choice) in the relevant box.
+
 
 ### 6. Deploy the solution
 
+That's it! All you have to do then is run it and you have a full end-to-end solution.
+
+
+# Round Up
+
+So there you have it, a whole breakdown of using Octopus Deploy to deliver your Infrastructure as Code solution.
+This is more of an experimental or to accompany Runbooks. A complete infrastructure capability would be better use a source code repository.
