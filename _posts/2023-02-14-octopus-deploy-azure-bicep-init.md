@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Octopus Deploy Automation - Upload Packages
+title: Octopus Deploy Automation - Deploy Azure Bicep Templates
 categories:
   - octopus-deploy-post
 ---
