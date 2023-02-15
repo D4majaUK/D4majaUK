@@ -26,12 +26,8 @@ Technically a knowledge-dump as and when the mood takes. *I'm not technical, but
 
 These are the things I am currently working on or completed [x]:
 
-  - [x] Octopus Deploy - Self-Heal Health Check
-  - [x] Octopus Deploy - Azure Tools setting in PoSh
-  - [ ] Azure Bicep
-  - [ ] Terrafrom framework
-  - [ ] Blog welcome page
-  - [ ] About page
+  - [x] Azure Bicep
+  - [x] Terrafrom framework
   - [x] I'm not technical, but.....
 
 ## Documentation
