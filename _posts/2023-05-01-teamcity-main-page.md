@@ -9,7 +9,7 @@ categories:
 
 <img src="/Portfolio/images/teamcity.jpg" width="200" height="100" />
 
-## TeamCity
+## About TeamCity
 
 TeamCity is a build management and continuous integration server from JetBrains.
 
