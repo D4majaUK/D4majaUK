@@ -20,6 +20,7 @@ permalink: /blog/
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
       {% for post in posts %}
         {% unless post.categories[0] == "bicep-post" %}
+        {% unless post.categories[0] == "teamcity-post" %}
           {% unless post.categories[0] == "octopus-deploy-post" %}
             <li>
               <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -32,6 +33,7 @@ permalink: /blog/
                 {{ post.excerpt }}
               {% endif %}
             </li>
+          {% endunless %}
           {% endunless %}
         {% endunless %}
       {% endfor %}
