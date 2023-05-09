@@ -8,6 +8,7 @@ permalink: /history/
   - DamajaUK Portfolio GitHubPages
 
 # Blog Posts
+  - Added "TeamCity - ProGet publish" post
   - Added "Windows - Auto login" post
   - Added "Octopus Deploy Self-Heal Health Check" post
   - Added "I'm not technical, but..." post
