@@ -19,7 +19,7 @@ Eventually, admitting defeat on this one, I resorted to using NPM command line s
 Did it work? Nope! Back to the drawing board.
 
 Scouring the net, cursing and losing a grip on whatever day it was, I was determined to get this sorted. So, I tried another search and came up with an article that suggested I could create the BAse64 string using the Chrome browser. WHAAAAATTTT!!!??? 
-Indeed it does. If you press F12 and navigate to the Console tab, you can type: btoa($string that needs to be encoded) and you will get a Base64 encoded string. I tried that, and crossed fingers, toes and eyes. The last idea not something one should try for too long, especially not the length of this particular build. Anyway, for the first time, in a long time, I had a green TeamCity build. However, I have been there before, to then find out that the package did not update. I checked nervously, the version number (as I had asked the engineer to bump up the version). Hoorah! It was as I had wished for, a new version. Yahooooo!
+Indeed it does. If you press F12 and navigate to the Console tab, you can type: btoa(string that needs to be encoded) and you will get a Base64 encoded string. I tried that, and crossed fingers, toes and eyes. The last idea not something one should try for too long, especially not the length of this particular build. Anyway, for the first time, in a long time, I had a green TeamCity build. However, I have been there before, to then find out that the package did not update. I checked nervously, the version number (as I had asked the engineer to bump up the version). Hoorah! It was as I had wished for, a new version. Yahooooo!
 
 And that folks, is a done deal.
 
