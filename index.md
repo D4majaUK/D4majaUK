@@ -17,6 +17,7 @@ Technically a knowledge-dump as and when the mood takes. *I'm not technical, but
 - [Thanks](#thanks)
 
 ## What's New
+- [Git - Blog posts](https://d4majauk.github.io/Portfolio/git)
 - [Windows - Auto login](https://d4majauk.github.io/Portfolio/windows/2022/09/16/autostart-login-vm.html)
 - [TeamCity - Blog posts](https://d4majauk.github.io/Portfolio/teamcity)
 - [Octopus Deploy - Blog posts](https://d4majauk.github.io/Portfolio/octopus)
