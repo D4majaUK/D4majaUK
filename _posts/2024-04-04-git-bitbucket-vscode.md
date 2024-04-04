@@ -13,6 +13,9 @@ SSH not working
 
 Credential Manager
 
+![First Computer](/Portfolio/images/CredMgr1.jpg)
+
+
 Config
 
 ```
