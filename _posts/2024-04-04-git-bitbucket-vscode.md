@@ -12,5 +12,30 @@ SSH not working
 # Solution
 
 Credential Manager
+
 Config
+
+```
+[user]
+	name = <name>
+	email = <email address>
+[fetch]
+	prune = false
+[pull]
+	rebase = false
+[http]
+	sslbackend = openssl
+[credential]
+	helper = wincred
+[credential "<name in Credential Manager>"]
+	usehttppath = true
+[core]
+	editor = \"C:\\.......\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+```
+
+
 Password
+
+```
+git config --global credential.helper wincred
+```
